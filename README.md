@@ -44,5 +44,5 @@ To run this project, you will need:
 
 ## 👤 Author
 Name: Raj Fatehveer Singh Brar<br>
-Email ID: rbrar_be23@thapar.edu
+Email ID: rbrar_be23@thapar.edu<br>
 University: Thapar Institute of Engineering and Technology
