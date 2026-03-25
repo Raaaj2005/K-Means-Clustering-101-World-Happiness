@@ -32,7 +32,7 @@ To run this project, you will need:
    git clone https://github.com/Raaaj2005/K-Means-Clustering-101-World-Happiness
 
 2. Navigate into the downloaded project folder:
-   cd your-repo-name
+   cd K-Means-Clustering-101-World-Happiness
 
 3. Install the required dependencies:
    pip install scikit-learn plotly jupyter
